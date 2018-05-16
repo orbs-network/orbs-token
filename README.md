@@ -5,7 +5,9 @@
 
 This is the repository for the [Orbs Token](https://orbs.com) smart contract.
 
-![Orbs Token](logo.jpg)
+<div align="center">
+    <img alt="logo" src="/logo.jpg" />
+</div>
 
 Orbs is a public blockchain built for the needs of apps with millions of users, from SLAs to adjustable fee models to on-demand capacity.
 
@@ -27,10 +29,20 @@ In order to run the tests, please execute the `scripts/test.sh` script.
 
 > $ ./scripts/test.sh
 
+<div align="center">
+    <img alt="tests" src="/images/tests.png" />
+</div>
+
+You can see the full code coverage [here](https://circleci.com/gh/orbs-network/orbs-token).
+
 ### Code Coverage
 
 In order to run the test coverage, please execute the `scripts/coverage.sh` script.
 
 > $ ./scripts/coverage.sh
 
-<iframe width="100%" src="/coverage/index.html" frameborder="1" />
+<div align="center">
+    <img alt="coverage" src="/images/coverage.png" />
+</div>
+
+You can see the full code coverage [here](https://codecov.io/gh/orbs-network/orbs-token/tree/master/contracts).
