@@ -5,6 +5,7 @@
 /node_modules
 /build
 /dist
+/coverage
 /coverageEnv
 /coverage.json
 /allFiredEvents
