@@ -19,7 +19,7 @@ The contracts written in [Solidity](https://solidity.readthedocs.io/en/develop/)
 
 ### Dependencies
 
-Installing the dependencies using [yarn][Yarn]
+Installing the dependencies using [yarn][https://yarnpkg.com/]
 
 > $ yarn install
 
