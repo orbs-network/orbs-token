@@ -22,6 +22,7 @@ Orbs received security audits on the token smart contract in May 2018 from Smart
 
 - [SmartDec](SmartDec%20OrbsToken%20Security%20Audit.pdf)
 - [80Trill](80Trill_OrbsToken_Audit_v1.0.pdf)
+- [BokkyPooBah](https://github.com/bokkypoobah/OrbsTokenSmartContractAudit)
 
 ### Dependencies
 
