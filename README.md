@@ -17,6 +17,13 @@ Please see the [contracts/](contracts) directory.
 
 The contracts written in [Solidity](https://solidity.readthedocs.io/en/develop/) and tested using [Truffle](http://truffleframework.com/) and [ganache](https://github.com/trufflesuite/ganache). It also uses [CircleCI](https://circleci.com/gh/orbs-network/orbs-token) for automatic CI and [solidity-coverage](https://github.com/sc-forks/solidity-coverage) and [codecov](https://codecov.io/gh/orbs-network/orbs-token) for ensuring 100% tests code coverage.
 
+### Security Audit
+Orbs received security audits on the token smart contract in May 2018 from SmartDEC, 80Trill and Bok Consulting Pty Ltd.
+
+- [SmartDec](SmartDec%20OrbsToken%20Security%20Audit.pdf)
+- [80Trill](80Trill_OrbsToken_Audit_v1.0.pdf)
+- [Bok Consulting Pty](https://github.com/bokkypoobah/OrbsSubscriptionSmartContractAudit/tree/alpha/audit)
+
 ### Dependencies
 
 Installing the dependencies using [yarn][https://yarnpkg.com/]
