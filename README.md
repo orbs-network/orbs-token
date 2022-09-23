@@ -1,3 +1,7 @@
+<div align="center">
+    <img alt="logo" src="/logo.jpg" />
+</div>
+
 # Orbs Platform Token
 
 [![CircleCI](https://circleci.com/gh/orbs-network/orbs-token/tree/master.svg?style=svg)](https://circleci.com/gh/orbs-network/orbs-token/tree/master)
@@ -5,11 +9,12 @@
 
 This is the repository for the [Orbs Token](https://orbs.com) smart contract.
 
-<div align="center">
-    <img alt="logo" src="/logo.jpg" />
-</div>
-
 Orbs is a public blockchain built for the needs of apps with millions of users, from SLAs to adjustable fee models to on-demand capacity.
+
+## Official contract instances
+
+* Ethereum ORBS ERC20: [0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA](https://etherscan.io/token/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa)
+* Polygon ORBS ERC20: [0x614389eaae0a6821dc49062d56bda3d9d45fa2ff](https://polygonscan.com/address/0x614389eaae0a6821dc49062d56bda3d9d45fa2ff)
 
 ## Contracts
 
